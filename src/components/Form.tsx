@@ -32,7 +32,7 @@ const Form = () => {
     setEmail("");
     setAgree(false);
 
-    alert("Obrigado por se inscrever!");
+    alert("Obrigado por se inscrever na nossa Newsletter!");
   };
 
   return (
